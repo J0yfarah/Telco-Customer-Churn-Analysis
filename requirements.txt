@@ -1,0 +1,19 @@
+# Data Processing & Analysis
+numpy==1.24.2
+pandas==1.5.3
+
+# Machine Learning
+scikit-learn==1.2.2
+
+# Visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+# Jupyter Environment
+jupyter==1.0.0
+ipykernel==6.21.2
+notebook==6.5.2
+
+# Optional Dependencies
+plotly==5.13.1
+imbalanced-learn==0.10.1
