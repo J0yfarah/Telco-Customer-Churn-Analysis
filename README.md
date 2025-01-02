@@ -35,7 +35,7 @@ The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com
 To get started with this project, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/telco-customer-churn.git
+git clone https://github.com/j0yfarah/telco-customer-churn.git
 cd telco-customer-churn
 pip install -r requirements.txt
 ```
@@ -55,16 +55,8 @@ python scripts/build_model.py
 4. **Feature Engineering**: Create new features that can improve model performance.
 5. **Model Building**: Build and train predictive models.
 6. **Model Evaluation**: Evaluate the models using appropriate metrics.
-7. **Deployment**: Deploy the best model for production use.
 
-## Implementation Plan
-1. **Define Objectives**: Clearly define the objectives and success criteria for the project.
-2. **Data Preparation**: Collect and preprocess the data.
-3. **Exploratory Analysis**: Perform EDA to gain insights into the data.
-4. **Feature Engineering**: Engineer features to enhance model performance.
-5. **Model Training**: Train multiple models and select the best one.
-6. **Evaluation**: Evaluate the models and fine-tune as necessary.
-7. **Deployment**: Deploy the final model and monitor its performance.
+
 
 ## Results
 The results of the analysis and model performance will be documented here. This section will include key findings, model evaluation metrics, and any visualizations that help illustrate the results.
