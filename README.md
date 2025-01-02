@@ -20,12 +20,12 @@ Customer churn is a critical metric for businesses, especially in the telecommun
 ## Project Structure
 The repository is organized as follows:
 ```
-📦 telco-churn
- ┣ 📜 Telco.ipynb          # Main analysis notebook
+📦 TELCO CUSTOMER CHURN
+ ┣ 📜 Telco-RF.ipynb          # Random Forest model notebook
+ ┣ 📜 TelcoRegressionModel.ipynb          # Logistic Regression model notebook
  ┣ 📜 README.md            # Documentation
  ┣ 📜 requirements.txt     # Dependencies
- ┗ 📂 data
-    ┗ 📜 Telco-Customer-Churn.csv
+ ┣ 📜 LICENSE    # Legal license
 ```
 
 ## Dataset
