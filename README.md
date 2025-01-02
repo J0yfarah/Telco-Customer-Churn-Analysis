@@ -20,21 +20,12 @@ Customer churn is a critical metric for businesses, especially in the telecommun
 ## Project Structure
 The repository is organized as follows:
 ```
-telco-customer-churn/
-│
-├── data/
-│   ├── raw/                # Raw data files
-│   ├── processed/          # Processed data files
-│
-├── notebooks/              # Jupyter notebooks for exploration and analysis
-│
-├── scripts/                # Python scripts for data processing and modeling
-│   ├── analyze_data.py
-│   ├── build_model.py
-│
-├── requirements.txt        # Required dependencies
-├── README.md               # Project README file
-├── LICENSE                 # License file
+📦 telco-churn
+ ┣ 📜 Telco.ipynb          # Main analysis notebook
+ ┣ 📜 README.md            # Documentation
+ ┣ 📜 requirements.txt     # Dependencies
+ ┗ 📂 data
+    ┗ 📜 Telco-Customer-Churn.csv
 ```
 
 ## Dataset
